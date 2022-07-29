@@ -1,19 +1,19 @@
-header.1=Advanced configuration file for Cloudburst
-header.2=Some of these settings are safe, others can break your server if modified incorrectly
-header.3=New settings/defaults won't appear automatically on this file when upgrading
+header.1=Geavanceerd configuratiebestand voor Cloudburst
+header.2=Sommige van deze instellingen zijn veilig, andere kunnen uw server kapot maken als ze verkeerd worden aangepast
+header.3=Nieuwe instellingen/defaults verschijnen niet automatisch in dit bestand bij het upgraden
 
-settings.language=Multi-language setting
-settings.force-language=Whether to send all strings translated to server locale or let the device handle them
+settings.language=Meertalige instelling
+settings.force-language=Wil je alle strings vertaald naar de server locale verzenden of ze door het apparaat laten afhandelen
 
-settings.shutdown-message=Disconnect message sent to players when the server is shutdown
-settings.query-plugins=Allow listing plugins via Query
-settings.deprecated-verbose=Show a console message when a plugin uses deprecated API methods
-settings.async-workers.1=Number of asynchronous workers
-settings.async-workers.2=If set to auto, it'll try to detect the number of cores (and at least 4)
-settings.upnp=Attempt to port forward on the gateway using UPnP
+settings.shutdown-message=Verbroken verbindingsbericht verzonden naar spelers wanneer de server wordt afgesloten
+settings.query-plugins=Plugins in lijst toestaan via Query
+settings.deprecated-verbose=Toon een console bericht wanneer een plugin verouderde API methodes gebruikt
+settings.async-workers.1=Aantal asynchrone werkers
+settings.async-workers.2=Indien ingesteld op auto, zal het proberen het aantal kernen te detecteren (en ten minste 4)
+settings.upnp=Poging tot port forward op de gateway met UPnP
 
-network.batch-threshold.1=Threshold for batching packets, in bytes. Only these packets will be compressed
-network.batch-threshold.2=Set to 0 to compress everything, -1 to disable
+network.batch-threshold.1=Drempel voor batching pakketten, in bytes. Alleen deze pakketten zullen worden gecomprimeerd
+network.batch-threshold.2=Stel in op 0 om alles te comprimeren, -1 om uit te schakelen
 network.compression-level=Compression level used of Zlib when sending batched packets. Higher = more CPU, less bandwidth usage
 network.async-compression=Use AsyncTasks for compression. Adds half/one tick delay, less CPU load on main thread
 
