@@ -14,25 +14,25 @@ settings.upnp=Poging tot port forward op de gateway met UPnP
 
 network.batch-threshold.1=Drempel voor batching pakketten, in bytes. Alleen deze pakketten zullen worden gecomprimeerd
 network.batch-threshold.2=Stel in op 0 om alles te comprimeren, -1 om uit te schakelen
-network.compression-level=Compression level used of Zlib when sending batched packets. Higher = more CPU, less bandwidth usage
-network.async-compression=Use AsyncTasks for compression. Adds half/one tick delay, less CPU load on main thread
+network.compression-level=Compressie niveau gebruikt van Zlib bij het versturen van batched pakketten. Hoger = meer CPU, minder bandbreedte gebruik
+network.async-compression=Gebruik AsyncTasks voor compressie. Voegt een halve/één tick vertraging toe, minder CPU belasting op de hoofddraad
 
-debug.level=If > 1, it will show debug messages in the console
-debug.commands=Enables commands: /status /gc
+debug.level=Indien > 1, zal het debug boodschappen tonen in de console
+debug.commands=Activeert commando's: /status /gc
 
-timings.enabled=Enable core and plugin timings by default
-timings.verbose=Enable monitoring at verbose level, include high-frequency timings
-timings.history-interval.1=Interval between history frames in ticks
-timings.history-interval.2=Default is 5 minutes (6000 ticks)
-timings.history-length.1=Length of the whole timing history in ticks
-timings.history-length.2=Default is 1 hour (72000 ticks)
-timings.history-length.3=This value is capped at a maximum of history-interval * 12
-timings.bypass-max.1=For special cases of servers with special permission to bypass the max
-timings.bypass-max.2=This max helps keep data file sizes reasonable for processing on Aikar's Timing parser side
-timings.bypass-max.3=Setting this will not help you bypass the max unless Aikar has added an exception on the API side
-timings.privacy=If set to true, name of your server won't be sent
-timings.ignore.1=Settings sections to ignore. These sections won't be sent to Aikar's Timing parser
-timings.ignore.2=Example formats:
+timings.enabled=Schakel core en plugin timings standaard in
+timings.verbose=Inschakelen van bewaking op verbose-niveau, inclusief hoogfrequente timings
+timings.history-interval.1=Interval tussen geschiedenisframes in tikken
+timings.history-interval.2=Standaard is 5 minuten (6000 ticks)
+timings.history-length.1=Lengte van de hele timingsgeschiedenis in tikken
+timings.history-length.2=Standaard is 1 uur (72000 ticks)
+timings.history-length.3=Deze waarde is begrensd op een maximum van history-interval * 12
+timings.bypass-max.1=Voor speciale gevallen van servers met speciale toestemming om de max
+timings.bypass-max.2=Deze max helpt om de bestandsgrootte redelijk te houden voor verwerking in Aikar's Timing parser
+timings.bypass-max.3=Door dit in te stellen kan je de max niet omzeilen tenzij Aikar een uitzondering heeft toegevoegd aan de API kant
+timings.privacy=Indien ingesteld op true, zal de naam van uw server niet worden verzonden
+timings.ignore.1=Instellingen secties om te negeren. Deze secties zullen niet naar Aikar's Timing parser gestuurd worden
+timings.ignore.2=Voorbeeldformaten:
 
 level-settings.default-format=The default format that levels will use when created
 level-settings.auto-tick-rate=Automatically change levels tick rate to maintain 20 ticks per second
