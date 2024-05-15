@@ -71,7 +71,7 @@ cloudburst.command.timings.uploadStart=Подготовка отчёта о та
 cloudburst.command.timings.uploadError=Ошибка загрузки: %1$2s: %2$2s, см. логи для получения большей информации
 cloudburst.command.timings.reportError=Произошла ошибка при вставке отчёта, см. логи для получения большей информации
 cloudburst.command.timings.timingsLocation=Просмотреть отчёт о таймингах: %1$2s
-cloudburst.command.timings.timingsResponse=Timings response: %1$2s
+cloudburst.command.timings.timingsResponse=Ответ тайминга: %1$2s
 cloudburst.command.timings.timingsWrite=Тайминги записаны на %1$2s
 
 cloudburst.crash.create=Прозиошла неустранимая ошибка и произошёл сбой сервера. Создание аварийного отчёта об ошибках
