@@ -1,15 +1,15 @@
-header.1=Advanced configuration file for Cloudburst
-header.2=Some of these settings are safe, others can break your server if modified incorrectly
-header.3=New settings/defaults won't appear automatically on this file when upgrading
+header.1=Розширений файл конфігурації Cloudburst
+header.2=Деякі з цих налаштувань є безпечними, інші можуть зламати ваш сервер, якщо будуть неправильно змінені
+header.3=Нові налаштування/налаштування за замовчуванням не будуть автоматично відображатися на цьому файлі під час оновлення
 
-settings.language=Multi-language setting
-settings.force-language=Whether to send all strings translated to server locale or let the device handle them
+settings.language=Багатомовне налаштування
+settings.force-language=Чи повинні бути всі рядки переведені на мовний стандарт сервера або дозволити їх контролювати
 
-settings.shutdown-message=Disconnect message sent to players when the server is shutdown
-settings.query-plugins=Allow listing plugins via Query
-settings.deprecated-verbose=Show a console message when a plugin uses deprecated API methods
-settings.async-workers.1=Number of asynchronous workers
-settings.async-workers.2=If set to auto, it'll try to detect the number of cores (and at least 4)
+settings.shutdown-message=Повідомлення про відключення, що надсилається гравцям при вимкненні сервера
+settings.query-plugins=Дозволити показ плагінів за допомогою запиту
+settings.deprecated-verbose=Показувати повідомлення в консолі, коли плагін використовує застарілі методи API
+settings.async-workers.1=Кількість асинхронних робітників
+settings.async-workers.2=Якщо встановлено значення авто, він намагатиметься виявити кількість ядер (мінімум 4)
 settings.upnp=Attempt to port forward on the gateway using UPnP
 
 network.batch-threshold.1=Threshold for batching packets, in bytes. Only these packets will be compressed
