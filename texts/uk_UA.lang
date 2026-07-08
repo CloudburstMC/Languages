@@ -4,14 +4,14 @@
 # These are custom localizations that need to be converted before being sent or used in the console.
 #
 
-cloudburst.language.selected=Обрано %1$2s як мову за замовчуванням.
+cloudburst.language.selected=Вибрано мову (%1$2s) як за замовчуванням.
 
-cloudburst.data.playerNotFound=Дані гравця "%1$2s" не знайдені, створення нового профілю
-cloudburst.data.playerCorrupted=Дані гравця "%1$2s" пошкоджені, створення нового профілю
-cloudburst.data.playerOld=Дані гравця "%1$2s" застаріли, відновлення профілю
-cloudburst.data.saveError=Не вдалося зберегти дані гравця "%1$2s": %2$2s
+cloudburst.data.playerNotFound=Дані гравця «%1$2s» не знайдено, створюється новий профіль
+cloudburst.data.playerCorrupted=Знайдено пошкоджені дані гравця «%1$2s», створюється новий профіль
+cloudburst.data.playerOld=Знайдено старі дані гравця «%1$2s», оновлення профілю
+cloudburst.data.saveError=Не вдалося зберегти дані гравця «%1$2s»: %2$2s
 
-cloudburst.level.notFound=Рівень "%1$2s" не знайдено
+cloudburst.level.notFound=Рівень «%1$2s» не знайдено
 cloudburst.level.loadError=Could not load level "%1$2s": %2$2s
 cloudburst.level.generationError=Could not generate level "%1$2s": %2$2s
 cloudburst.level.tickError=Could not tick level "%1$2s": %2$2s
@@ -41,21 +41,21 @@ cloudburst.server.upnp.success=Successfully forwarded UDP Port %1$2s using UPnP.
 cloudburst.server.upnp.fail=Failed to forward UDP Port %1$2s using UPnP.
 cloudburst.server.upnp.closed=Removed forwarding rule for UDP Port %1$2s using UPnP.
 
-cloudburst.command.alias.illegal=Could not register alias %1$2s because it contains illegal characters
-cloudburst.command.alias.notFound=Could not register alias %1$2s because it contains commands that do not exist: %2$2s
-cloudburst.command.exception=Unhandled exception executing command '%1$2s' in %2$2s: %3$2s
+cloudburst.command.alias.illegal=Не вдалося зареєструвати псевдонім %1$2s, оскільки він містить недопустимі символи
+cloudburst.command.alias.notFound=Не вдалося зареєструвати псевдонім %1$2s, оскільки він містить команди, які не існують: %2$2s
+cloudburst.command.exception=Необроблений виняток, що виконує команду «%1$2s» у %2$2s: %3$2s
 
-cloudburst.command.version.description=Gets the version of this server including any plugins in use
-cloudburst.command.version.usage=/version [plugin name]
-cloudburst.command.version.server=This server is running %1$2s version %2$2s (MC: %3$2s) (Implementing API version %4$2s)
-cloudburst.command.version.plugin=%1$2s running version %1$2s
-cloudburst.command.version.noSuchPlugin=This server is not running any plugin by that name. Use /plugins to get a list of plugins.
+cloudburst.command.version.description=Отримати версію цього сервера, включно з усіма використовуваними плагінами
+cloudburst.command.version.usage=/version [назва плагіна]
+cloudburst.command.version.server=Цей сервер працює на %1$2s версія %2$2s (MC: %3$2s) (Версія API: %4$2s)
+cloudburst.command.version.plugin=%1$2s працює на версії %1$2s
+cloudburst.command.version.noSuchPlugin=На цьому сервері не запущено жодного плагіна з такою назвою. Використовуйте /plugins, щоб отримати список плагінів.
 
-cloudburst.command.plugins.description=Gets a list of plugins running on the server
-cloudburst.command.plugins.success=Plugins (%1$2s): %2$2s
+cloudburst.command.plugins.description=Отримати список плагінів, запущених на сервері
+cloudburst.command.plugins.success=Плагіни (%1$2s): %2$2s
 cloudburst.command.plugins.usage=/plugins
 
-cloudburst.command.status.description=Reads back the server's performance.
+cloudburst.command.status.description=Зчитує продуктивність сервера.
 cloudburst.command.status.usage=/status
 
 cloudburst.command.timings.description=Records timings to see performance of the server.
@@ -111,6 +111,6 @@ cloudburst.resources.invalid-path=Resource packs path '%1$2s' exists and is not 
 cloudburst.resources.unknown-format=Could not load '%1$2s' due to format not recognized
 cloudburst.resources.fail=Could not load '%1$2s': %2$2s
 cloudburst.resources.success=Successfully loaded %1$2s resource packs
-cloudburst.resources.zip.not-found=File '%1$2s' is not found
-cloudburst.resources.zip.no-manifest='manifest.json' is not found
-cloudburst.resources.zip.invalid-manifest='manifest.json' is invalid or incomplete
+cloudburst.resources.zip.not-found=Файл «%1$2s» не знайдено
+cloudburst.resources.zip.no-manifest=«manifest.json» не знайдено
+cloudburst.resources.zip.invalid-manifest=«manifest.json» недійсний або неповний
