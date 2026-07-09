@@ -60,5 +60,3 @@ player.skin-change-cooldown=Skinin vaihtamisen välinen aika sekunneissa. Aseta 
 aliases=Komentojen aliakset
 
 worlds=Nämä asetukset ohittavat server.properties-asetukset ja sallivat useiden maailmojen lataamisen
-
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
