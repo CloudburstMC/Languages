@@ -9,12 +9,12 @@ cloudburst.language.selected=%1$2s terpilih sebagai lokal bawaan.
 cloudburst.data.playerNotFound=Data pemain tidak ditemukan untuk "%1$2s". membuat profil baru
 cloudburst.data.playerCorrupted=Data rusak ditemukan untuk "%1$2s". membuat profil baru
 cloudburst.data.playerOld=Data pemain lama ditemukan untuk "%1$2s". meningkatkan profil
-cloudburst.data.saveError=Tidak dapat menyimpan pemain "%1$2s":%2$2s
+cloudburst.data.saveError=Tidak dapat menyimpan pemain "%1$2s": %2$2s
 
 cloudburst.level.notFound=Level "%1$2s" tidak ditemukan
-cloudburst.level.loadError=Tidak dapat memuat level "%1$2s":%2$2s
-cloudburst.level.generationError=Tidak dapat menghasilkan level "%1$2s":%2$2s
-cloudburst.level.tickError=Tidak dapat menandai level "%1$2s":%2$2s
+cloudburst.level.loadError=Tidak dapat memuat level "%1$2s": %2$2s
+cloudburst.level.generationError=Tidak dapat menghasilkan level "%1$2s": %2$2s
+cloudburst.level.tickError=Tidak dapat menandai level "%1$2s": %2$2s
 cloudburst.level.chunkUnloadError=Gagal saat membongkar bongkahan %1$2s
 cloudburst.level.backgroundGeneration=Medan kemunculan untuk level "%1$2s" sedang dihasilkan di latar belakang
 cloudburst.level.defaultError=Tidak ada level bawaan yang dimuat
