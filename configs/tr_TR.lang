@@ -60,5 +60,3 @@ player.skin-change-cooldown=Cilt değiştirme zaman aralığı. Kapatmak için 0
 aliases=Komutlar için kısayollar
 
 worlds=Bu ayar server.properties dosyasındaki oluşturucu ayarlarından baskındır ve çoklu dünya yüklemeyi destekler
-
-player.log-player-address=If true, player IP addresses are shown in connection logs. If false, they are hidden.
