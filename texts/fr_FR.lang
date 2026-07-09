@@ -49,7 +49,7 @@ cloudburst.command.version.description=Obtient la version du serveur incluant le
 cloudburst.command.version.usage=/version [nom du plugin]
 cloudburst.command.version.server=Ce serveur tourne %1$2s version %2$2s (MC: %3$2s) (Implémentation de l'API version %4$2s)
 cloudburst.command.version.plugin=%1$2s tourne sur la version %1$2s
-cloudburst.command.version.noSuchPlugin=Plugin inexistant. Utilisez /Plugins pour obtenir la liste de plugins.
+cloudburst.command.version.noSuchPlugin=Plugin inexistant. Utilisez /plugins pour obtenir la liste de plugins.
 
 cloudburst.command.plugins.description=Obtenir une liste de plugins en cours d'exécution sur le serveur
 cloudburst.command.plugins.success=Plugins (%1$2s): %2$2s
@@ -77,7 +77,7 @@ cloudburst.command.timings.timingsWrite=Timings written to %1$2s
 cloudburst.crash.create=Une erreur irrécupérable s'est produite et le serveur s'est planté. Création d'un crash dump
 cloudburst.crash.error=Impossible de créer un crash dump : %1$2s
 cloudburst.crash.submit=Veuillez uploader le fichier "%1$2s" dans l'archive de crash et soumettez le lien vers la page de rapport de bugs. Donnez autant d'informations que possible
-cloudburst.crash.archive=Le crash dump a été automatiquement soumis à l'archive de crash. Vous pouvez le voir sur %1$2S ou utiliser l'ID #%2$2S.
+cloudburst.crash.archive=Le crash dump a été automatiquement soumis à l'archive de crash. Vous pouvez le voir sur %1$2s ou utiliser l'ID #%2$2s.
 
 cloudburst.debug.enable=Support pour LevelDB activé
 
