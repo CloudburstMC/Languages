@@ -86,8 +86,8 @@ cloudburst.bugreport.error=Hata raporu oluşturulamadı: %1$2s
 cloudburst.bugreport.archive=Bir hata raporu oluşturuldu: %1$2s
 
 cloudburst.player.invalidMove=%1$2s yanlış hareket etti!
-cloudburst.player.logIn=%1$2s[/%2$2s:%3$2s] logged in with entity id %4$2s at (%5$2s, %6$2s, %7$2s, %8$2s)
-cloudburst.player.logOut=%1$2s[/%2$2s:%3$2s] logged out due to %4$2s
+cloudburst.player.logIn=%1$2s[%2$2s] logged in with entity id %3$2s at ([%4$2s]%5$2s, %6$2s, %7$2s)
+cloudburst.player.logOut=%1$2s[%2$2s] logged out due to %3$2s
 cloudburst.player.invalidEntity=%1$2s geçersiz bir varlığa saldırmayı denedi
 
 cloudburst.plugin.load=%1$2s yükleniyor
