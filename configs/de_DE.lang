@@ -60,3 +60,5 @@ player.skin-change-cooldown=Setze den Cooldown für einen Skin Change, setzte es
 aliases=Aliase für Befehle
 
 worlds=Diese Einstellungen werden den Generator in server.properties überschreiben und erlauben das Laden mehrerer Level
+
+player.log-player-address=If true, player IP addresses are shown in connection logs. If false, they are hidden.
