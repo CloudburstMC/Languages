@@ -56,8 +56,9 @@ spawn-limits=Maximální počet těchto entit
 player.save-player-data.1=Při nastavení na true budou data hráčů ukládána ve formátu /players/jméno-hráče.dat
 player.save-player-data.2=Při nastavení na false, nebude cloudburst ukládat data hráčů jako "dat" soubory, aby s nimi mohly pluginy pracovat.
 player.skin-change-cooldown=Interval, ve kterém si hráč může změnit svůj skin. 0 pro vypnutí omezení
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
 
 aliases=Aliasy pro příkazy
 
 worlds=Tyto nastavení nahradí generátor nastavený v server.properties a umožní načítání více světů
+
+player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
