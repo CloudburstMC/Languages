@@ -86,8 +86,8 @@ cloudburst.bugreport.error=Fehler Bericht konnten nicht erstellt werden: %1$2s
 cloudburst.bugreport.archive=Ein Fehlerbericht wurde erstellt: %1$2s
 
 cloudburst.player.invalidMove=%1$2s hat sich falsch bewegt!
-cloudburst.player.logIn=%1$2s[/%2$2s:%3$2s] logged in with entity id %4$2s at (%5$2s, %6$2s, %7$2s, %8$2s)
-cloudburst.player.logOut=%1$2s[/%2$2s:%3$2s] logged out due to %4$2s
+cloudburst.player.logIn=%1$2s[%2$2s] logged in with entity id %3$2s at ([%4$2s]%5$2s, %6$2s, %7$2s)
+cloudburst.player.logOut=%1$2s[%2$2s] logged out due to %3$2s
 cloudburst.player.invalidEntity=%1$2s versuchte eine ungültige Entität anzugreifen
 
 cloudburst.plugin.load=Lade %1$2s
@@ -114,3 +114,4 @@ cloudburst.resources.success=%1$2s Ressourcenpacks wurden erfolgreich geladen
 cloudburst.resources.zip.not-found=Datei "%1$2s" wurde nicht gefunden
 cloudburst.resources.zip.no-manifest="manifest.json" wurde nicht gefunden
 cloudburst.resources.zip.invalid-manifest="manifest.json" ist ungültig oder unvollständig
+player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
