@@ -60,5 +60,3 @@ player.skin-change-cooldown=Le temps entre l'action de changement de peau en sec
 aliases=Alias pour les commandes
 
 worlds=Ces paramètres remplaceront le générateur défini dans server.properties et autoriseront le chargement de multiples niveaux
-
-player.log-player-address=If true, player IP addresses are shown in connection logs. If false, they are hidden.
