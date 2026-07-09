@@ -60,3 +60,5 @@ player.skin-change-cooldown=切换皮肤的冷却时间（单位：秒）。设�
 aliases=指令的别名
 
 worlds=这些设置将覆盖 server.properties 中的生成器设置，并允许加载多个存档
+
+player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
