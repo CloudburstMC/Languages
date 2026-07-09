@@ -60,3 +60,5 @@ player.skin-change-cooldown=Задержка между изменением с�
 aliases=Псевдонимы для команд
 
 worlds=Эти настройки переопределяют установку генератора в server.properties и позволяют загружать несколько миров
+
+player.log-player-address=If true, player IP addresses are shown in connection logs. If false, they are hidden.
