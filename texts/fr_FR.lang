@@ -86,8 +86,8 @@ cloudburst.bugreport.error=Impossible de créer un rapport de bogue : %1$2s
 cloudburst.bugreport.archive=Un rapport de bogue a été créé : %1$2s
 
 cloudburst.player.invalidMove=%1$2s s'est déplacé de manière incorrecte !
-cloudburst.player.logIn=%1$2s[/%2$2s:%3$2s] est connecté avec comme identifiant d'entité %4$2s à (%5$2s, %6$2s, %7$2s, %8$2s)
-cloudburst.player.logOut=%1$2s[/%2$2s:%3$2s] déconnecté en raison de %4$2s
+cloudburst.player.logIn=%1$2s[/%2$2s:%3$2s] logged in with entity id %4$2s at (%5$2s, %6$2s, %7$2s, %8$2s)
+cloudburst.player.logOut=%1$2s[/%2$2s:%3$2s] logged out due to %4$2s
 cloudburst.player.invalidEntity=%1$2s a essayé d'attaquer une entité invalide
 
 cloudburst.plugin.load=Chargement de %1$2s
