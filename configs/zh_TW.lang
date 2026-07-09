@@ -60,5 +60,3 @@ player.skin-change-cooldown=兩次更換 Skin 的時間間隔 (以秒為單位) 
 aliases=指令別稱
 
 worlds=這些設定將覆蓋 server.properties 中的地圖建立器設置， 並可以設置多個地圖
-
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
