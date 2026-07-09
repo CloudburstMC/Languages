@@ -56,9 +56,8 @@ spawn-limits=Bu varlıkların en fazla sayıları
 player.save-player-data.1="true" seçilirse, oyuncu verileri players/oyuncuismi.dat olarak kaydedilecek
 player.save-player-data.2=Eğer "false" ise, cloudburst, eklentilerin üzerinde bir şeyler yapabilmesi için oyuncu verilerini "dat" dosyaları olarak kaydetmez.
 player.skin-change-cooldown=Cilt değiştirme zaman aralığı. Kapatmak için 0 yazın
+player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
 
 aliases=Komutlar için kısayollar
 
 worlds=Bu ayar server.properties dosyasındaki oluşturucu ayarlarından baskındır ve çoklu dünya yüklemeyi destekler
-
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.

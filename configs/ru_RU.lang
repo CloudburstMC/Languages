@@ -56,9 +56,8 @@ spawn-limits=Максимальное количество этих сущнос
 player.save-player-data.1=Если эта опция включена, данные игроков будут сохранены как players/имя_игрока.dat
 player.save-player-data.2=Если false, cloudburst не будет сохранять данные игроков в виде "dat" файлов, чтобы плагины могли что-то сделать с ними.
 player.skin-change-cooldown=Задержка между изменением скина. Установите 0, чтобы отключить задержку
+player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
 
 aliases=Псевдонимы для команд
 
 worlds=Эти настройки переопределяют установку генератора в server.properties и позволяют загружать несколько миров
-
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
