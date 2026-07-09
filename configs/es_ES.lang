@@ -60,5 +60,3 @@ player.skin-change-cooldown=The time between skin change action in seconds. Set 
 aliases=Alias para comandos
 
 worlds=Estos ajustes sobrescribirán el generador establecido en server.properties y permitirán cargar múltiples niveles
-
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
