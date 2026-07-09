@@ -60,5 +60,3 @@ player.skin-change-cooldown=Interval, ve kterém si hráč může změnit svůj 
 aliases=Aliasy pro příkazy
 
 worlds=Tyto nastavení nahradí generátor nastavený v server.properties a umožní načítání více světů
-
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
