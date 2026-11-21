@@ -21,7 +21,7 @@ debug.level=> 1이면 콘솔에 디버그 메시지를 표시합니다
 debug.commands=명령어 사용: /status /gc
 
 timings.enabled=코어와 플러그인 타이밍을 기본적으로 사용
-timings.verbose=자세함 수준에서 모니터링 사용, 높은 빈도 타이밍 포함
+timings.verbose=자세함 수준의 모니터링 사용, 고빈도 타이밍 포함
 timings.history-interval.1=히스토리 프레임 간격(틱)
 timings.history-interval.2=기본값은 5분(6000틱)입니다
 timings.history-length.1=전체 타이밍 히스토리의 길이(틱)
