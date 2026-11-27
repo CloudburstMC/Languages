@@ -46,7 +46,6 @@ chunk-sending.cache-chunks.1=Hızlı göndermek için yığının kopyasını ka
 chunk-sending.cache-chunks.2=Oyuncuların aynı anda girdiği statik dünyalarda faydalıdır
 
 chunk-ticking.per-tick=Tick başına işlenecek yığın sayısı
-chunk-ticking.tick-radius=Oyuncuyu işlemek için yığın yarıçapı
 
 chunk-generation.queue-size=Oluşturulmayı bekleyen en fazla yığın sayısı
 chunk-generation.population-queue-size=İşlenilmeyi bekleyecek en fazla yığın sayısı
@@ -58,5 +57,3 @@ player.save-player-data.2=Eğer "false" ise, cloudburst, eklentilerin üzerinde 
 player.skin-change-cooldown=Cilt değiştirme zaman aralığı. Kapatmak için 0 yazın
 
 aliases=Komutlar için kısayollar
-
-worlds=Bu ayar server.properties dosyasındaki oluşturucu ayarlarından baskındır ve çoklu dünya yüklemeyi destekler
