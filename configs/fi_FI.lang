@@ -46,7 +46,6 @@ chunk-sending.cache-chunks.1=Tallenna sarjanumeroitu kopio lohkosta muistiin nop
 chunk-sending.cache-chunks.2=Hyödyllinen enimmäkseen staattisissa maailmoissa, joissa paljon pelaajia liittyy samanaikaisesti
 
 chunk-ticking.per-tick=Käsiteltävien lohkojen enimmäismäärä per tick
-chunk-ticking.tick-radius=Maailman päivittämisen etäisyys pelaajan ympärillä (lohkoja)
 
 chunk-generation.queue-size=Generointia odottavien lohkojen enimmäismäärä
 chunk-generation.population-queue-size=Populointia odottavien lohkojen enimmäismäärä
@@ -58,5 +57,3 @@ player.save-player-data.2=Jos "false", Cloudburst ei tallenna pelaajien tietoja 
 player.skin-change-cooldown=Skinin vaihtamisen välinen aika sekunneissa. Aseta "0" poistaaksesi rajoituksen
 
 aliases=Komentojen aliakset
-
-worlds=Nämä asetukset ohittavat server.properties-asetukset ja sallivat useiden maailmojen lataamisen
