@@ -46,7 +46,6 @@ chunk-sending.cache-chunks.1=Speichern Sie eine serialisierte Kopie des Chunks i
 chunk-sending.cache-chunks.2=Nützlich in größtenteils statischen Welten, in denen viele Spieler gleichzeitig beitreten
 
 chunk-ticking.per-tick=Maximale Anzahl an Chunks die pro Tick verarbeitet werden
-chunk-ticking.tick-radius=Radius der Chunks um einen Spieler zu markieren
 
 chunk-generation.queue-size=Max. Anzahl der Chunks in der Warteschlange, die erstellt werden soll
 chunk-generation.population-queue-size=Max. Anzahl an Chunks in der Warteschlange, die besetzt werden sollen
@@ -58,5 +57,3 @@ player.save-player-data.2=Wenn es auf false gesetzt wurde wird Cloudburst keine 
 player.skin-change-cooldown=Setze den Cooldown für einen Skin Change, setzte es auf 0 um den Cooldown zu deaktivieren
 
 aliases=Aliase für Befehle
-
-worlds=Diese Einstellungen werden den Generator in server.properties überschreiben und erlauben das Laden mehrerer Level
