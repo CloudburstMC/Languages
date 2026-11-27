@@ -90,6 +90,14 @@ cloudburst.player.logIn=%1$2s[%2$2s] kirjautui sisään olennon tunnuksella %3$2
 cloudburst.player.logOut=%1$2s[%2$2s] kirjautui ulos: %3$2s
 cloudburst.player.invalidEntity=%1$2s yritti vahingoittaa virheellistä olentoa
 
+cloudburst.disconnect.banned=You are banned from this server.
+cloudburst.disconnect.bannedIp=Your IP address is banned from this server.
+cloudburst.disconnect.banReason=Reason: %1$2s
+cloudburst.disconnect.banExpiration=Your ban will be removed on %1$2s
+cloudburst.disconnect.flying=Flying is not enabled on this server
+cloudburst.disconnect.invalidEntityAttacked=Attempting to attack an invalid entity
+cloudburst.disconnect.levelUnloaded=The default level was unloaded
+
 cloudburst.plugin.load=Ladataan %1$2s
 cloudburst.plugin.enable=Otetaan käyttöön %1$2s
 cloudburst.plugin.disable=Poistetaan käytöstä %1$2s
