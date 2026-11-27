@@ -90,6 +90,14 @@ cloudburst.player.logIn=%1$2s [%2$2s] がエンティティ Id %3$2s として (
 cloudburst.player.logOut=%1$2s[%2$2s] が %3$2s によってログアウトされました。
 cloudburst.player.invalidEntity=%1$2s が無効なエンティティを攻撃しようとしました。
 
+cloudburst.disconnect.banned=You are banned from this server.
+cloudburst.disconnect.bannedIp=Your IP address is banned from this server.
+cloudburst.disconnect.banReason=Reason: %1$2s
+cloudburst.disconnect.banExpiration=Your ban will be removed on %1$2s
+cloudburst.disconnect.flying=Flying is not enabled on this server
+cloudburst.disconnect.invalidEntityAttacked=Attempting to attack an invalid entity
+cloudburst.disconnect.levelUnloaded=The default level was unloaded
+
 cloudburst.plugin.load=%1$2s を読み込んでいます。
 cloudburst.plugin.enable=%1$2s を有効化しています。
 cloudburst.plugin.disable=%1$2s を無効化しています。
