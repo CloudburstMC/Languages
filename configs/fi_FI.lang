@@ -56,7 +56,6 @@ spawn-limits=Näiden olioiden enimmäismäärä
 player.save-player-data.1=Jos "true", pelaajien tiedot tallennetaan kohteeseen players/uuid.dat
 player.save-player-data.2=Jos "false", Cloudburst ei tallenna pelaajien tietoja "dat"-tiedostoina, jotta lisäosat voivat hoitaa tämän.
 player.skin-change-cooldown=Skinin vaihtamisen välinen aika sekunneissa. Aseta "0" poistaaksesi rajoituksen
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
 
 aliases=Komentojen aliakset
 

@@ -56,7 +56,6 @@ spawn-limits=實體數量上限
 player.save-player-data.1=如果為 true ，玩家資料將存於 players/玩家UUID.dat
 player.save-player-data.2=If false, cloudburst won't save player data as "dat" files, in order that plugins can do something on it.
 player.skin-change-cooldown=兩次更換 Skin 的時間間隔 (以秒為單位) 。設置為 0 停用冷卻時間
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
 
 aliases=指令別稱
 

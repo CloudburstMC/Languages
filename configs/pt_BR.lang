@@ -56,7 +56,6 @@ spawn-limits=Max amount of these entities
 player.save-player-data.1=If true, player data will be saved as players/playername.dat
 player.save-player-data.2=If false, cloudburst won't save player data as "dat" files, in order that plugins can do something on it.
 player.skin-change-cooldown=The time between skin change action in seconds. Set 0 to disable the cooldown
-player.log-player-addresses=If true, player IP addresses are shown in connection logs. If false, they are hidden.
 
 aliases=Aliases for commands
 
