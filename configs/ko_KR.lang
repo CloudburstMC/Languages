@@ -46,7 +46,6 @@ chunk-sending.cache-chunks.1=빠른 전송을 위해 메모리에 청크의 직�
 chunk-sending.cache-chunks.2=많은 플레이어가 동시에 참여하는 대부분 정적인 세계에서 유용합니다
 
 chunk-ticking.per-tick=각 틱마다 처리되는 청크의 최대량
-chunk-ticking.tick-radius=플레이어 주변의 틱 처리할 청크의 반지름
 
 chunk-generation.queue-size=대기열에 있는 생성될 청크의 최대량
 chunk-generation.population-queue-size=대기열에 있는 채워질 청크의 최대량
@@ -58,5 +57,3 @@ player.save-player-data.2=false면 Cloudburst에서 플러그인이 플레이어
 player.skin-change-cooldown=스킨 변경 작업 간 시간(초)입니다. 대기 시간을 사용하지 않으려면 0으로 설정합니다
 
 aliases=명령어의 별칭
-
-worlds=이 설정은 server.properties에서 설정된 생성기를 재정의하며 여러 레벨을 불러올 수 있도록 합니다
