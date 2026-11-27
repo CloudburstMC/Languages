@@ -46,7 +46,6 @@ chunk-sending.cache-chunks.1=将序列化的区块副本保存在内存中以便
 chunk-sending.cache-chunks.2=在很多玩家同时加入的静态世界中很有用
 
 chunk-ticking.per-tick=每 tick 处理的区块数量上限
-chunk-ticking.tick-radius=玩家周围区块的 tick 半径
 
 chunk-generation.queue-size=区块生成队列中的等待数量上限
 chunk-generation.population-queue-size=区块填充队列中的等待数量上限
@@ -58,5 +57,3 @@ player.save-player-data.2=If false, cloudburst won't save player data as "dat" f
 player.skin-change-cooldown=切换皮肤的冷却时间（单位：秒）。设为 0 以禁用冷却
 
 aliases=指令的别名
-
-worlds=这些设置将覆盖 server.properties 中的生成器设置，并允许加载多个存档
