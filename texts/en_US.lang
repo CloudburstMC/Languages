@@ -30,6 +30,19 @@ cloudburst.command.generic.permission=You do not have permission to use this com
 cloudburst.command.gamemode.failed=Could not change the game mode of %1$2s
 cloudburst.command.banip.alreadyBanned=IP address %1$2s is already banned
 
+cloudburst.command.whitelist.description=Manages the server whitelist
+cloudburst.command.whitelist.enabled=Whitelist is now turned on
+cloudburst.command.whitelist.disabled=Whitelist is now turned off
+cloudburst.command.whitelist.alreadyEnabled=Whitelist is already turned on
+cloudburst.command.whitelist.alreadyDisabled=Whitelist is already turned off
+cloudburst.command.whitelist.players=There are %1$2s whitelisted players: %2$2s
+cloudburst.command.whitelist.empty=There are no whitelisted players
+cloudburst.command.whitelist.added=Added %1$2s to the whitelist
+cloudburst.command.whitelist.alreadyAdded=%1$2s is already whitelisted
+cloudburst.command.whitelist.removed=Removed %1$2s from the whitelist
+cloudburst.command.whitelist.notAdded=%1$2s is not whitelisted
+cloudburst.command.whitelist.reloaded=Reloaded the whitelist
+
 cloudburst.command.title.clear=Cleared titles for %1$2s
 cloudburst.command.title.reset=Reset title options for %1$2s
 cloudburst.command.title.title=Showing title "%1$2s" to %2$2s
