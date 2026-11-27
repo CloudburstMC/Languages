@@ -46,7 +46,6 @@ chunk-sending.cache-chunks.1=使用區塊緩存，可以加速發送區塊
 chunk-sending.cache-chunks.2=可緩解大量玩家加入時的壓力
 
 chunk-ticking.per-tick=每 tick 最多處理的區塊數量
-chunk-ticking.tick-radius=玩家周圍的區塊半徑
 
 chunk-generation.queue-size=排程中建立的區塊數量上限
 chunk-generation.population-queue-size=排程中填充的區塊數量上限
@@ -58,5 +57,3 @@ player.save-player-data.2=If false, cloudburst won't save player data as "dat" f
 player.skin-change-cooldown=兩次更換 Skin 的時間間隔 (以秒為單位) 。設置為 0 停用冷卻時間
 
 aliases=指令別稱
-
-worlds=這些設定將覆蓋 server.properties 中的地圖建立器設置， 並可以設置多個地圖
