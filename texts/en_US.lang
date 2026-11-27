@@ -74,6 +74,17 @@ cloudburst.command.timings.timingsLocation=View timings report: %1$2s
 cloudburst.command.timings.timingsResponse=Timings response: %1$2s
 cloudburst.command.timings.timingsWrite=Timings written to %1$2s
 
+cloudburst.command.generic.permission=You do not have permission to use this command
+cloudburst.command.gamemode.failed=Could not change the game mode of %1$2s
+cloudburst.command.banip.alreadyBanned=IP address %1$2s is already banned
+
+cloudburst.command.title.clear=Cleared titles for %1$2s
+cloudburst.command.title.reset=Reset title options for %1$2s
+cloudburst.command.title.title=Showing title "%1$2s" to %2$2s
+cloudburst.command.title.subtitle=Set subtitle "%1$2s" for %2$2s
+cloudburst.command.title.actionbar=Showing action bar text "%1$2s" to %2$2s
+cloudburst.command.title.times.success=Set title times to fade in %1$2s, stay %2$2s and fade out %3$2s ticks for %4$2s
+
 cloudburst.crash.create=An unrecoverable error has occurred and the server has crashed. Creating a crash dump
 cloudburst.crash.error=Could not create crash dump: %1$2s
 cloudburst.crash.submit=Please upload the "%1$2s" file to the Crash Archive and submit the link to the Bug Reporting page. Give as much info as you can.
