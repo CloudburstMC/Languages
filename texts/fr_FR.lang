@@ -90,6 +90,14 @@ cloudburst.player.logIn=%1$2s[%2$2s] est connecté avec comme identifiant d'enti
 cloudburst.player.logOut=%1$2s[%2$2s] déconnecté en raison de %3$2s
 cloudburst.player.invalidEntity=%1$2s a essayé d'attaquer une entité invalide
 
+cloudburst.disconnect.banned=You are banned from this server.
+cloudburst.disconnect.bannedIp=Your IP address is banned from this server.
+cloudburst.disconnect.banReason=Reason: %1$2s
+cloudburst.disconnect.banExpiration=Your ban will be removed on %1$2s
+cloudburst.disconnect.flying=Flying is not enabled on this server
+cloudburst.disconnect.invalidEntityAttacked=Attempting to attack an invalid entity
+cloudburst.disconnect.levelUnloaded=The default level was unloaded
+
 cloudburst.plugin.load=Chargement de %1$2s
 cloudburst.plugin.enable=Activation de %1$2s
 cloudburst.plugin.disable=Désactivation de %1$2s
